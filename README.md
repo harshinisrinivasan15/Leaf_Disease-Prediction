@@ -1,4 +1,4 @@
-# Leaf Disease Prediction using CNN & MobileNetV2
+# 🌿 Leaf Disease Prediction using CNN & MobileNetV2
 
 ## 📌 Project Overview
 This project implements a Deep Learning model to classify leaf diseases using Convolutional Neural Networks (CNN) and Transfer Learning (MobileNetV2).
